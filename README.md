@@ -1,2 +1,4 @@
 # Coffee-House
-Coffee House using HTML and CSS and BootStrap .
+A modern Coffee Shop website built using HTML and CSS only. This project showcases a stylish layout for a coffee shop with a homepage, product sections .
+
+
